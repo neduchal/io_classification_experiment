@@ -15,6 +15,10 @@ https://drive.google.com/drive/folders/1joNbyYU_lSVU4XTbcNrRMPi4lYjIn9CL?usp=sha
 
 Exemplary code for neural network training can be found in _NN/Train_nonBIT.py_
 
+Other supplementary materials for classic machine learning approach can be found at:
+
+https://drive.google.com/drive/folders/1GgMLRTARCbLOXYlHIEJ4V0ipc3u4gEfk?usp=sharing
+
 If you find our research useful, please consider to **cite** the following related paper:
 
 ```
